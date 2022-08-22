@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/storage-back/node_modules
 /.pnp
 .pnp.js
 

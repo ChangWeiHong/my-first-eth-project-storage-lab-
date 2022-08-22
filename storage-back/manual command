@@ -1,0 +1,3 @@
+const HDWalletProvider = require('@truffle/hdwallet-provider');
+const mnemonic = 'license piece clog aim culture easily glue physical payment bus alone season';
+const wallet = new HDWalletProvider(mnemonic, "http://127.0.0.1:8545");
